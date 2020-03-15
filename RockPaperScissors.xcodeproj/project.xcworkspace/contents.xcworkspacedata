@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:RockPaerScissors.xcodeproj">
+      location = "self:/Users/hinsolo/Desktop/RockPaperScissors/RockPaperScissors.xcodeproj">
    </FileRef>
 </Workspace>
